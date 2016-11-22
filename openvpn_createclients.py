@@ -6,7 +6,7 @@
 import subprocess
 #subprocess.call(["command1", "arg1", "arg2"])
 
-#define names of keys
+#define names of keys - can be as many as desired
 keynames = ("henry","jimbo")
 #set IP address of VPN server
 ipaddr = "127.0.0.1" 
